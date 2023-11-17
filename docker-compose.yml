@@ -1,0 +1,21 @@
+# version: '3.6'
+# services:
+#   java:
+#     build: ./java
+#     ports:
+#       - 6000:8080
+#     tty: true
+#     volumes:
+#       - ./javac2:/javac2/:cached
+
+version: '3.6'
+services:
+  java:
+    build: ./java
+    ports:
+      - 6000:8080
+    tty: true
+    volumes:
+      - ./javac2:/javac2/:cached
+      # chmod +x /javac2/compile.sh
+    # ,"&&","chmod +x ./ant/bin/ant"

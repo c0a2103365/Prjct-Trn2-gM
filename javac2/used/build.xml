@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="ProJava" default="dist" basedir=".">
+
+
+
+  <description>プログラミングC2 Java(デスクトップアプリ）用のビルドファイルです．</description>
+  <!--set global properties for this build-->
+  <property name="src" value="src" />
+  <property name="build" value="classes" />
+ <property name="lib" value="lib" />
+  <property name="dist" value="dist" />
+  <property name="docsapi" value="apidocs"/>
+
+
+
+
+    <target name="clean">
+    <!--Delete created directory trees-->
+    <delete dir="${build}" includeEmptyDirs="true" />
+    <delete includeEmptyDirs="true">
+      <fileset dir="${dist}" excludes="lib/**" />
+    </delete>
+
+  </target>
+  <target name="init">
+    <!--creates the build directory-->
+    <mkdir dir="${build}" />
+    <mkdir dir="${dist}" />
+  </target>
+
+  <target name="build" depends="init">
+    <!--Compiles the java code from ${src} directory into ${build} directory-->
+   <javac encoding="utf-8" destdir="${build}" source="11" target="11">
+    <!--<javac  destdir="${build}">-->
+      <src path="${src}" />
+    </javac>
+  </target>
+
+
+  <target name="doc" depends="init">
+    <javadoc destdir="${docsapi}" author="true"  version="true" use="true" windowtitle="API" encoding="UTF-8">
+      <fileset dir="${src}" defaultexcludes="yes">
+        <!--<exclude name="**/*Test.java" />
+        <exclude name="**/Test*.java" />  -->
+      </fileset>
+    </javadoc>
+  </target>
+
+</project>
+

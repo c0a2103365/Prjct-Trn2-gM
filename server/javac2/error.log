@@ -1,0 +1,417 @@
+02-Jun-2021 14:41:13.272 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDirectory Webアプリケーションディレクトリ [/opt/tomcat/apache-tomcat-9.0.45/webapps/kanemitsuh] を配備します
+02-Jun-2021 14:41:13.289 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDirectory ディレクトリ [/opt/tomcat/apache-tomcat-9.0.45/webapps/kanemitsuh] の Web アプリケーションの配備は [17] ms で完了しました。
+02-Jun-2021 14:42:53.803 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy コンテキストパス [/pnw] のWebアプリケーションの配備を解除します
+02-Jun-2021 14:42:53.811 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Webアプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/pnw.war] を配備します
+02-Jun-2021 14:42:53.861 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Web アプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/pnw.war] の配備は [49] ms で完了しました。
+02-Jun-2021 14:43:04.363 情報 [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy コンテキストパス [/kanemitsuh] のWebアプリケーションの配備を解除します
+02-Jun-2021 14:43:34.875 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy コンテキストパス [/pnw] のWebアプリケーションの配備を解除します
+03-Jun-2021 16:39:16.669 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Webアプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/g20.war] を配備します
+03-Jun-2021 16:39:16.694 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Web アプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/g20.war] の配備は [24] ms で完了しました。
+03-Jun-2021 17:00:26.856 情報 [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy コンテキストパス [/g20] のWebアプリケーションの配備を解除します
+03-Jun-2021 17:00:26.868 情報 [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Webアプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/g20.war] を配備します
+03-Jun-2021 17:00:26.891 情報 [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Web アプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/g20.war] の配備は [22] ms で完了しました。
+04-Jun-2021 15:56:28.339 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy コンテキストパス [/g20] のWebアプリケーションの配備を解除します
+04-Jun-2021 15:56:48.358 情報 [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDirectory Webアプリケーションディレクトリ [/opt/tomcat/apache-tomcat-9.0.45/webapps/g20] を配備します
+04-Jun-2021 15:56:48.370 情報 [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDirectory ディレクトリ [/opt/tomcat/apache-tomcat-9.0.45/webapps/g20] の Web アプリケーションの配備は [12] ms で完了しました。
+04-Jun-2021 17:57:29.340 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy コンテキストパス [/g02] のWebアプリケーションの配備を解除します
+04-Jun-2021 17:57:29.351 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Webアプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/g02.war] を配備します
+04-Jun-2021 17:57:29.377 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Web アプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/g02.war] の配備は [25] ms で完了しました。
+04-Jun-2021 17:58:39.387 情報 [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy コンテキストパス [/g02] のWebアプリケーションの配備を解除します
+04-Jun-2021 17:58:39.397 情報 [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Webアプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/g02.war] を配備します
+04-Jun-2021 17:58:39.419 情報 [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Web アプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/g02.war] の配備は [21] ms で完了しました。
+04-Jun-2021 18:06:29.486 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy コンテキストパス [/g20] のWebアプリケーションの配備を解除します
+04-Jun-2021 18:06:29.501 重大 [Catalina-utility-2] org.apache.catalina.startup.ExpandWar.deleteDir [/opt/tomcat/apache-tomcat-9.0.45/webapps/g20/tokuyama] を削除できません。残ったファイルにより問題が生じるかもしれません。
+04-Jun-2021 18:06:29.502 重大 [Catalina-utility-2] org.apache.catalina.startup.ExpandWar.deleteDir [/opt/tomcat/apache-tomcat-9.0.45/webapps/g20] を削除できません。残ったファイルにより問題が生じるかもしれません。
+04-Jun-2021 18:06:29.502 重大 [Catalina-utility-2] org.apache.catalina.startup.ExpandWar.delete [/opt/tomcat/apache-tomcat-9.0.45/webapps/g20] を削除できません。残ったファイルにより問題が生じるかもしれません。
+04-Jun-2021 18:06:29.503 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Webアプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/g20.war] を配備します
+--
+05-Dec-2021 00:01:50.480 情報 [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Webアプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/kanemitsuh.war] を配備します
+05-Dec-2021 00:01:50.614 情報 [Catalina-utility-1] org.apache.jasper.servlet.TldScanner.scanJars 少なくとも1つのJARが、まだTLDを含んでいないTLDについてスキャンされました。 スキャンしたが、そこにTLDが見つからなかったJARの完全なリストについては、このロガーのデバッグログを有効にしてください。 スキャン中に不要なJARをスキップすると、起動時間とJSPのコンパイル時間が改善されます。
+05-Dec-2021 00:01:50.616 情報 [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Web アプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/kanemitsuh.war] の配備は [136] ms で完了しました。
+javax.naming.NameNotFoundException: 名前 [jdbc/com.mysql.cj.jdbc.MysqlDataSource] はこのコンテキストにバインドされていません
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:833)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:160)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:843)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:160)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:843)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:174)
+	at org.apache.naming.SelectorContext.lookup(SelectorContext.java:163)
+	at java.naming/javax.naming.InitialContext.lookup(InitialContext.java:409)
+	at ex09.Kadai2Servlet.executeSelectSQL(Unknown Source)
+	at ex09.Kadai2Servlet.doGet(Unknown Source)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+--
+05-Dec-2021 00:11:51.167 情報 [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy コンテキストパス [/kanemitsuh] のWebアプリケーションの配備を解除します
+05-Dec-2021 02:23:11.749 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Webアプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/kanemitsuh.war] を配備します
+05-Dec-2021 02:23:11.860 情報 [Catalina-utility-2] org.apache.jasper.servlet.TldScanner.scanJars 少なくとも1つのJARが、まだTLDを含んでいないTLDについてスキャンされました。 スキャンしたが、そこにTLDが見つからなかったJARの完全なリストについては、このロガーのデバッグログを有効にしてください。 スキャン中に不要なJARをスキップすると、起動時間とJSPのコンパイル時間が改善されます。
+05-Dec-2021 02:23:11.861 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Web アプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/kanemitsuh.war] の配備は [112] ms で完了しました。
+05-Dec-2021 02:33:31.910 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy コンテキストパス [/kanemitsuh] のWebアプリケーションの配備を解除します
+05-Dec-2021 02:33:31.917 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Webアプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/kanemitsuh.war] を配備します
+05-Dec-2021 02:33:32.122 情報 [Catalina-utility-2] org.apache.jasper.servlet.TldScanner.scanJars 少なくとも1つのJARが、まだTLDを含んでいないTLDについてスキャンされました。 スキャンしたが、そこにTLDが見つからなかったJARの完全なリストについては、このロガーのデバッグログを有効にしてください。 スキャン中に不要なJARをスキップすると、起動時間とJSPのコンパイル時間が改善されます。
+05-Dec-2021 02:33:32.124 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Web アプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/kanemitsuh.war] の配備は [207] ms で完了しました。
+05-Dec-2021 02:33:52.126 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy コンテキストパス [/kanemitsuh] のWebアプリケーションの配備を解除します
+05-Dec-2021 02:33:52.133 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Webアプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/kanemitsuh.war] を配備します
+05-Dec-2021 02:33:52.135 重大 [Catalina-utility-2] org.apache.catalina.startup.ContextConfig.beforeStart コンテキスト [/kanemitsuh] の docBase を修復中に例外が発生しました。
+	java.util.zip.ZipException: zip file is empty
+		at java.base/java.util.zip.ZipFile$Source.zerror(ZipFile.java:1581)
+		at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1389)
+		at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1483)
+		at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1288)
+		at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1251)
+		at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:830)
+		at java.base/java.util.zip.ZipFile$CleanableResource$FinalizableResource.<init>(ZipFile.java:856)
+		at java.base/java.util.zip.ZipFile$CleanableResource.get(ZipFile.java:845)
+		at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:247)
+		at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:177)
+		at java.base/java.util.jar.JarFile.<init>(JarFile.java:348)
+		at java.base/sun.net.www.protocol.jar.URLJarFile.<init>(URLJarFile.java:103)
+		at java.base/sun.net.www.protocol.jar.URLJarFile.getJarFile(URLJarFile.java:72)
+		at java.base/sun.net.www.protocol.jar.JarFileFactory.get(JarFileFactory.java:99)
+		at java.base/sun.net.www.protocol.jar.JarURLConnection.connect(JarURLConnection.java:125)
+		at java.base/sun.net.www.protocol.jar.JarURLConnection.getJarFile(JarURLConnection.java:92)
+		at org.apache.catalina.startup.ExpandWar.expand(ExpandWar.java:128)
+		at org.apache.catalina.startup.ContextConfig.fixDocBase(ContextConfig.java:820)
+		at org.apache.catalina.startup.ContextConfig.beforeStart(ContextConfig.java:959)
+--
+05-Dec-2021 02:33:52.138 重大 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Webアプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/kanemitsuh.war] を配備中のエラー
+	java.lang.IllegalStateException: 子要素を開始できません。
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:720)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:690)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:706)
+		at org.apache.catalina.startup.HostConfig.deployWAR(HostConfig.java:1023)
+		at org.apache.catalina.startup.HostConfig$DeployWar.run(HostConfig.java:1903)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:118)
+		at org.apache.catalina.startup.HostConfig.deployWARs(HostConfig.java:824)
+		at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:474)
+		at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1660)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:315)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+		at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1151)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1353)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1357)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1335)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+--
+05-Dec-2021 02:33:52.140 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Web アプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/kanemitsuh.war] の配備は [8] ms で完了しました。
+05-Dec-2021 02:34:32.144 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy コンテキストパス [/kanemitsuh] のWebアプリケーションの配備を解除します
+05-Dec-2021 02:34:32.146 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Webアプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/kanemitsuh.war] を配備します
+05-Dec-2021 02:34:32.148 重大 [Catalina-utility-2] org.apache.catalina.startup.ContextConfig.beforeStart コンテキスト [/kanemitsuh] の docBase を修復中に例外が発生しました。
+	java.util.zip.ZipException: zip file is empty
+		at java.base/java.util.zip.ZipFile$Source.zerror(ZipFile.java:1581)
+		at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1389)
+		at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1483)
+		at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1288)
+		at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1251)
+		at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:830)
+		at java.base/java.util.zip.ZipFile$CleanableResource$FinalizableResource.<init>(ZipFile.java:856)
+		at java.base/java.util.zip.ZipFile$CleanableResource.get(ZipFile.java:845)
+		at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:247)
+		at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:177)
+		at java.base/java.util.jar.JarFile.<init>(JarFile.java:348)
+		at java.base/sun.net.www.protocol.jar.URLJarFile.<init>(URLJarFile.java:103)
+		at java.base/sun.net.www.protocol.jar.URLJarFile.getJarFile(URLJarFile.java:72)
+		at java.base/sun.net.www.protocol.jar.JarFileFactory.get(JarFileFactory.java:99)
+		at java.base/sun.net.www.protocol.jar.JarURLConnection.connect(JarURLConnection.java:125)
+		at java.base/sun.net.www.protocol.jar.JarURLConnection.getJarFile(JarURLConnection.java:92)
+		at org.apache.catalina.startup.ExpandWar.expand(ExpandWar.java:128)
+		at org.apache.catalina.startup.ContextConfig.fixDocBase(ContextConfig.java:820)
+		at org.apache.catalina.startup.ContextConfig.beforeStart(ContextConfig.java:959)
+--
+05-Dec-2021 02:34:32.150 重大 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Webアプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/kanemitsuh.war] を配備中のエラー
+	java.lang.IllegalStateException: 子要素を開始できません。
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:720)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:690)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:706)
+		at org.apache.catalina.startup.HostConfig.deployWAR(HostConfig.java:1023)
+		at org.apache.catalina.startup.HostConfig$DeployWar.run(HostConfig.java:1903)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:118)
+		at org.apache.catalina.startup.HostConfig.deployWARs(HostConfig.java:824)
+		at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:474)
+		at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1660)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:315)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+		at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1151)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1353)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1357)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1335)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+--
+05-Dec-2021 02:34:32.153 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Web アプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/kanemitsuh.war] の配備は [7] ms で完了しました。
+05-Dec-2021 02:35:12.157 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy コンテキストパス [/kanemitsuh] のWebアプリケーションの配備を解除します
+05-Dec-2021 02:35:12.158 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Webアプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/kanemitsuh.war] を配備します
+05-Dec-2021 02:35:12.279 情報 [Catalina-utility-2] org.apache.jasper.servlet.TldScanner.scanJars 少なくとも1つのJARが、まだTLDを含んでいないTLDについてスキャンされました。 スキャンしたが、そこにTLDが見つからなかったJARの完全なリストについては、このロガーのデバッグログを有効にしてください。 スキャン中に不要なJARをスキップすると、起動時間とJSPのコンパイル時間が改善されます。
+05-Dec-2021 02:35:12.280 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Web アプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/kanemitsuh.war] の配備は [122] ms で完了しました。
+05-Dec-2021 02:36:12.286 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy コンテキストパス [/kanemitsuh] のWebアプリケーションの配備を解除します
+05-Dec-2021 02:36:12.296 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Webアプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/kanemitsuh.war] を配備します
+05-Dec-2021 02:36:12.522 情報 [Catalina-utility-2] org.apache.jasper.servlet.TldScanner.scanJars 少なくとも1つのJARが、まだTLDを含んでいないTLDについてスキャンされました。 スキャンしたが、そこにTLDが見つからなかったJARの完全なリストについては、このロガーのデバッグログを有効にしてください。 スキャン中に不要なJARをスキップすると、起動時間とJSPのコンパイル時間が改善されます。
+05-Dec-2021 02:36:12.525 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Web アプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/kanemitsuh.war] の配備は [229] ms で完了しました。
+05-Dec-2021 02:38:22.536 情報 [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy コンテキストパス [/kanemitsuh] のWebアプリケーションの配備を解除します
+05-Dec-2021 02:38:22.559 情報 [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Webアプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/kanemitsuh.war] を配備します
+05-Dec-2021 02:38:22.785 情報 [Catalina-utility-1] org.apache.jasper.servlet.TldScanner.scanJars 少なくとも1つのJARが、まだTLDを含んでいないTLDについてスキャンされました。 スキャンしたが、そこにTLDが見つからなかったJARの完全なリストについては、このロガーのデバッグログを有効にしてください。 スキャン中に不要なJARをスキップすると、起動時間とJSPのコンパイル時間が改善されます。
+05-Dec-2021 02:38:22.788 情報 [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Web アプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/kanemitsuh.war] の配備は [229] ms で完了しました。
+05-Dec-2021 02:42:22.808 情報 [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy コンテキストパス [/kanemitsuh] のWebアプリケーションの配備を解除します
+05-Dec-2021 02:42:22.815 情報 [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Webアプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/kanemitsuh.war] を配備します
+05-Dec-2021 02:42:22.997 情報 [Catalina-utility-1] org.apache.jasper.servlet.TldScanner.scanJars 少なくとも1つのJARが、まだTLDを含んでいないTLDについてスキャンされました。 スキャンしたが、そこにTLDが見つからなかったJARの完全なリストについては、このロガーのデバッグログを有効にしてください。 スキャン中に不要なJARをスキップすると、起動時間とJSPのコンパイル時間が改善されます。
+05-Dec-2021 02:42:23.000 情報 [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Web アプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/kanemitsuh.war] の配備は [185] ms で完了しました。
+05-Dec-2021 02:43:53.008 情報 [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy コンテキストパス [/kanemitsuh] のWebアプリケーションの配備を解除します
+05-Dec-2021 02:43:53.014 情報 [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Webアプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/kanemitsuh.war] を配備します
+05-Dec-2021 02:43:53.238 情報 [Catalina-utility-1] org.apache.jasper.servlet.TldScanner.scanJars 少なくとも1つのJARが、まだTLDを含んでいないTLDについてスキャンされました。 スキャンしたが、そこにTLDが見つからなかったJARの完全なリストについては、このロガーのデバッグログを有効にしてください。 スキャン中に不要なJARをスキップすると、起動時間とJSPのコンパイル時間が改善されます。
+05-Dec-2021 02:43:53.241 情報 [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Web アプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/kanemitsuh.war] の配備は [227] ms で完了しました。
+05-Dec-2021 02:44:33.245 情報 [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy コンテキストパス [/kanemitsuh] のWebアプリケーションの配備を解除します
+05-Dec-2021 02:44:33.252 情報 [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Webアプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/kanemitsuh.war] を配備します
+05-Dec-2021 02:44:33.456 情報 [Catalina-utility-1] org.apache.jasper.servlet.TldScanner.scanJars 少なくとも1つのJARが、まだTLDを含んでいないTLDについてスキャンされました。 スキャンしたが、そこにTLDが見つからなかったJARの完全なリストについては、このロガーのデバッグログを有効にしてください。 スキャン中に不要なJARをスキップすると、起動時間とJSPのコンパイル時間が改善されます。
+05-Dec-2021 02:44:33.457 情報 [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Web アプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/kanemitsuh.war] の配備は [205] ms で完了しました。
+05-Dec-2021 10:06:45.506 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy コンテキストパス [/kanemitsuh] のWebアプリケーションの配備を解除します
+05-Dec-2021 10:06:45.522 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Webアプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/kanemitsuh.war] を配備します
+05-Dec-2021 10:06:45.748 情報 [Catalina-utility-2] org.apache.jasper.servlet.TldScanner.scanJars 少なくとも1つのJARが、まだTLDを含んでいないTLDについてスキャンされました。 スキャンしたが、そこにTLDが見つからなかったJARの完全なリストについては、このロガーのデバッグログを有効にしてください。 スキャン中に不要なJARをスキップすると、起動時間とJSPのコンパイル時間が改善されます。
+05-Dec-2021 10:06:45.751 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Web アプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/kanemitsuh.war] の配備は [229] ms で完了しました。
+05-Dec-2021 13:38:56.669 情報 [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy コンテキストパス [/kanemitsuh] のWebアプリケーションの配備を解除します
+05-Dec-2021 13:38:56.695 情報 [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Webアプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/kanemitsuh.war] を配備します
+05-Dec-2021 13:38:56.865 情報 [Catalina-utility-1] org.apache.jasper.servlet.TldScanner.scanJars 少なくとも1つのJARが、まだTLDを含んでいないTLDについてスキャンされました。 スキャンしたが、そこにTLDが見つからなかったJARの完全なリストについては、このロガーのデバッグログを有効にしてください。 スキャン中に不要なJARをスキップすると、起動時間とJSPのコンパイル時間が改善されます。
+05-Dec-2021 13:38:56.866 情報 [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Web アプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/kanemitsuh.war] の配備は [171] ms で完了しました。
+05-Dec-2021 13:39:26.869 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy コンテキストパス [/kanemitsuh] のWebアプリケーションの配備を解除します
+05-Dec-2021 13:39:26.886 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Webアプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/kanemitsuh.war] を配備します
+05-Dec-2021 13:39:27.107 情報 [Catalina-utility-2] org.apache.jasper.servlet.TldScanner.scanJars 少なくとも1つのJARが、まだTLDを含んでいないTLDについてスキャンされました。 スキャンしたが、そこにTLDが見つからなかったJARの完全なリストについては、このロガーのデバッグログを有効にしてください。 スキャン中に不要なJARをスキップすると、起動時間とJSPのコンパイル時間が改善されます。
+05-Dec-2021 13:39:27.110 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Web アプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/kanemitsuh.war] の配備は [225] ms で完了しました。
+05-Dec-2021 13:41:47.120 情報 [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy コンテキストパス [/kanemitsuh] のWebアプリケーションの配備を解除します
+05-Dec-2021 13:41:47.136 情報 [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Webアプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/kanemitsuh.war] を配備します
+05-Dec-2021 13:41:47.355 情報 [Catalina-utility-1] org.apache.jasper.servlet.TldScanner.scanJars 少なくとも1つのJARが、まだTLDを含んでいないTLDについてスキャンされました。 スキャンしたが、そこにTLDが見つからなかったJARの完全なリストについては、このロガーのデバッグログを有効にしてください。 スキャン中に不要なJARをスキップすると、起動時間とJSPのコンパイル時間が改善されます。
+05-Dec-2021 13:41:47.358 情報 [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Web アプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/kanemitsuh.war] の配備は [221] ms で完了しました。
+05-Dec-2021 16:13:58.005 情報 [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy コンテキストパス [/kanemitsuh] のWebアプリケーションの配備を解除します
+05-Dec-2021 16:13:58.013 情報 [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Webアプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/kanemitsuh.war] を配備します
+05-Dec-2021 16:13:58.145 情報 [Catalina-utility-1] org.apache.jasper.servlet.TldScanner.scanJars 少なくとも1つのJARが、まだTLDを含んでいないTLDについてスキャンされました。 スキャンしたが、そこにTLDが見つからなかったJARの完全なリストについては、このロガーのデバッグログを有効にしてください。 スキャン中に不要なJARをスキップすると、起動時間とJSPのコンパイル時間が改善されます。
+05-Dec-2021 16:13:58.146 情報 [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Web アプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/kanemitsuh.war] の配備は [133] ms で完了しました。
+05-Dec-2021 16:14:08.147 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy コンテキストパス [/kanemitsuh] のWebアプリケーションの配備を解除します
+05-Dec-2021 16:14:08.162 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Webアプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/kanemitsuh.war] を配備します
+05-Dec-2021 16:14:08.285 情報 [Catalina-utility-2] org.apache.jasper.servlet.TldScanner.scanJars 少なくとも1つのJARが、まだTLDを含んでいないTLDについてスキャンされました。 スキャンしたが、そこにTLDが見つからなかったJARの完全なリストについては、このロガーのデバッグログを有効にしてください。 スキャン中に不要なJARをスキップすると、起動時間とJSPのコンパイル時間が改善されます。
+05-Dec-2021 16:14:08.287 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Web アプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/kanemitsuh.war] の配備は [125] ms で完了しました。
+06-Dec-2021 00:50:30.484 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy コンテキストパス [/kanemitsuh] のWebアプリケーションの配備を解除します
+06-Dec-2021 00:50:30.490 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Webアプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/kanemitsuh.war] を配備します
+06-Dec-2021 00:50:30.712 情報 [Catalina-utility-2] org.apache.jasper.servlet.TldScanner.scanJars 少なくとも1つのJARが、まだTLDを含んでいないTLDについてスキャンされました。 スキャンしたが、そこにTLDが見つからなかったJARの完全なリストについては、このロガーのデバッグログを有効にしてください。 スキャン中に不要なJARをスキップすると、起動時間とJSPのコンパイル時間が改善されます。
+06-Dec-2021 00:50:30.716 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Web アプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/kanemitsuh.war] の配備は [226] ms で完了しました。
+java.sql.SQLSyntaxErrorException: Unknown database 'javab_db'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:120)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:836)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:456)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:246)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:677)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:228)
+	at ex09.Kadai2Servlet.executeSelectSQL(Unknown Source)
+	at ex09.Kadai2Servlet.doGet(Unknown Source)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+--
+06-Dec-2021 15:46:34.564 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy コンテキストパス [/kanemitsuh] のWebアプリケーションの配備を解除します
+06-Dec-2021 15:46:34.571 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Webアプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/kanemitsuh.war] を配備します
+06-Dec-2021 15:46:34.783 情報 [Catalina-utility-2] org.apache.jasper.servlet.TldScanner.scanJars 少なくとも1つのJARが、まだTLDを含んでいないTLDについてスキャンされました。 スキャンしたが、そこにTLDが見つからなかったJARの完全なリストについては、このロガーのデバッグログを有効にしてください。 スキャン中に不要なJARをスキップすると、起動時間とJSPのコンパイル時間が改善されます。
+06-Dec-2021 15:46:34.786 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Web アプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/kanemitsuh.war] の配備は [215] ms で完了しました。
+06-Dec-2021 16:03:04.855 情報 [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Webアプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/c0a20134cf.war] を配備します
+06-Dec-2021 16:03:05.059 情報 [Catalina-utility-1] org.apache.jasper.servlet.TldScanner.scanJars 少なくとも1つのJARが、まだTLDを含んでいないTLDについてスキャンされました。 スキャンしたが、そこにTLDが見つからなかったJARの完全なリストについては、このロガーのデバッグログを有効にしてください。 スキャン中に不要なJARをスキップすると、起動時間とJSPのコンパイル時間が改善されます。
+06-Dec-2021 16:03:05.062 情報 [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Web アプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/c0a20134cf.war] の配備は [208] ms で完了しました。
+06-Dec-2021 16:05:15.073 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy コンテキストパス [/kanemitsuh] のWebアプリケーションの配備を解除します
+06-Dec-2021 16:05:15.078 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Webアプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/kanemitsuh.war] を配備します
+06-Dec-2021 16:05:15.182 情報 [Catalina-utility-2] org.apache.jasper.servlet.TldScanner.scanJars 少なくとも1つのJARが、まだTLDを含んでいないTLDについてスキャンされました。 スキャンしたが、そこにTLDが見つからなかったJARの完全なリストについては、このロガーのデバッグログを有効にしてください。 スキャン中に不要なJARをスキップすると、起動時間とJSPのコンパイル時間が改善されます。
+06-Dec-2021 16:05:15.183 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Web アプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/kanemitsuh.war] の配備は [106] ms で完了しました。
+06-Dec-2021 16:05:25.184 情報 [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Webアプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/c0a20082.war] を配備します
+06-Dec-2021 16:05:25.387 情報 [Catalina-utility-1] org.apache.jasper.servlet.TldScanner.scanJars 少なくとも1つのJARが、まだTLDを含んでいないTLDについてスキャンされました。 スキャンしたが、そこにTLDが見つからなかったJARの完全なリストについては、このロガーのデバッグログを有効にしてください。 スキャン中に不要なJARをスキップすると、起動時間とJSPのコンパイル時間が改善されます。
+06-Dec-2021 16:05:25.389 情報 [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Web アプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/c0a20082.war] の配備は [205] ms で完了しました。
+06-Dec-2021 16:08:35.405 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy コンテキストパス [/c0a20134cf] のWebアプリケーションの配備を解除します
+06-Dec-2021 16:08:35.418 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Webアプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/c0a20134cf.war] を配備します
+06-Dec-2021 16:08:35.631 情報 [Catalina-utility-2] org.apache.jasper.servlet.TldScanner.scanJars 少なくとも1つのJARが、まだTLDを含んでいないTLDについてスキャンされました。 スキャンしたが、そこにTLDが見つからなかったJARの完全なリストについては、このロガーのデバッグログを有効にしてください。 スキャン中に不要なJARをスキップすると、起動時間とJSPのコンパイル時間が改善されます。
+06-Dec-2021 16:08:35.633 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Web アプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/c0a20134cf.war] の配備は [215] ms で完了しました。
+06-Dec-2021 16:13:05.657 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy コンテキストパス [/c0a20134cf] のWebアプリケーションの配備を解除します
+06-Dec-2021 16:13:05.661 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Webアプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/c0a20134cf.war] を配備します
+06-Dec-2021 16:13:05.861 情報 [Catalina-utility-2] org.apache.jasper.servlet.TldScanner.scanJars 少なくとも1つのJARが、まだTLDを含んでいないTLDについてスキャンされました。 スキャンしたが、そこにTLDが見つからなかったJARの完全なリストについては、このロガーのデバッグログを有効にしてください。 スキャン中に不要なJARをスキップすると、起動時間とJSPのコンパイル時間が改善されます。
+06-Dec-2021 16:13:05.863 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Web アプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/c0a20134cf.war] の配備は [202] ms で完了しました。
+06-Dec-2021 16:14:15.869 情報 [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy コンテキストパス [/c0a20082] のWebアプリケーションの配備を解除します
+06-Dec-2021 16:14:15.873 情報 [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Webアプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/c0a20082.war] を配備します
+06-Dec-2021 16:14:16.073 情報 [Catalina-utility-1] org.apache.jasper.servlet.TldScanner.scanJars 少なくとも1つのJARが、まだTLDを含んでいないTLDについてスキャンされました。 スキャンしたが、そこにTLDが見つからなかったJARの完全なリストについては、このロガーのデバッグログを有効にしてください。 スキャン中に不要なJARをスキップすると、起動時間とJSPのコンパイル時間が改善されます。
+06-Dec-2021 16:14:16.075 情報 [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Web アプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/c0a20082.war] の配備は [202] ms で完了しました。
+06-Dec-2021 16:16:46.088 情報 [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy コンテキストパス [/c0a20082] のWebアプリケーションの配備を解除します
+06-Dec-2021 16:16:46.092 情報 [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Webアプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/c0a20082.war] を配備します
+06-Dec-2021 16:16:46.288 情報 [Catalina-utility-1] org.apache.jasper.servlet.TldScanner.scanJars 少なくとも1つのJARが、まだTLDを含んでいないTLDについてスキャンされました。 スキャンしたが、そこにTLDが見つからなかったJARの完全なリストについては、このロガーのデバッグログを有効にしてください。 スキャン中に不要なJARをスキップすると、起動時間とJSPのコンパイル時間が改善されます。
+06-Dec-2021 16:16:46.291 情報 [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Web アプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/c0a20082.war] の配備は [199] ms で完了しました。
+06-Dec-2021 16:17:16.294 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Webアプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/.war] を配備します
+--
+06-Dec-2021 16:44:08.932 情報 [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy コンテキストパス [/kanemitsuh] のWebアプリケーションの配備を解除します
+06-Dec-2021 16:44:08.937 情報 [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Webアプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/kanemitsuh.war] を配備します
+06-Dec-2021 16:44:09.136 情報 [Catalina-utility-1] org.apache.jasper.servlet.TldScanner.scanJars 少なくとも1つのJARが、まだTLDを含んでいないTLDについてスキャンされました。 スキャンしたが、そこにTLDが見つからなかったJARの完全なリストについては、このロガーのデバッグログを有効にしてください。 スキャン中に不要なJARをスキップすると、起動時間とJSPのコンパイル時間が改善されます。
+06-Dec-2021 16:44:09.139 情報 [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Web アプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/kanemitsuh.war] の配備は [201] ms で完了しました。
+06-Dec-2021 16:44:29.141 情報 [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy コンテキストパス [/kanemitsuh] のWebアプリケーションの配備を解除します
+06-Dec-2021 16:44:29.144 情報 [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Webアプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/kanemitsuh.war] を配備します
+06-Dec-2021 16:44:29.342 情報 [Catalina-utility-1] org.apache.jasper.servlet.TldScanner.scanJars 少なくとも1つのJARが、まだTLDを含んでいないTLDについてスキャンされました。 スキャンしたが、そこにTLDが見つからなかったJARの完全なリストについては、このロガーのデバッグログを有効にしてください。 スキャン中に不要なJARをスキップすると、起動時間とJSPのコンパイル時間が改善されます。
+06-Dec-2021 16:44:29.344 情報 [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Web アプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/kanemitsuh.war] の配備は [200] ms で完了しました。
+06-Dec-2021 16:46:59.360 情報 [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy コンテキストパス [/kanemitsuh] のWebアプリケーションの配備を解除します
+06-Dec-2021 16:46:59.364 情報 [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Webアプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/kanemitsuh.war] を配備します
+06-Dec-2021 16:46:59.524 情報 [Catalina-utility-1] org.apache.jasper.servlet.TldScanner.scanJars 少なくとも1つのJARが、まだTLDを含んでいないTLDについてスキャンされました。 スキャンしたが、そこにTLDが見つからなかったJARの完全なリストについては、このロガーのデバッグログを有効にしてください。 スキャン中に不要なJARをスキップすると、起動時間とJSPのコンパイル時間が改善されます。
+06-Dec-2021 16:46:59.525 情報 [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Web アプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/kanemitsuh.war] の配備は [161] ms で完了しました。
+06-Dec-2021 16:47:49.530 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy コンテキストパス [/c0a20005c2] のWebアプリケーションの配備を解除します
+06-Dec-2021 16:47:49.535 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Webアプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/c0a20005c2.war] を配備します
+06-Dec-2021 16:47:49.677 情報 [Catalina-utility-2] org.apache.jasper.servlet.TldScanner.scanJars 少なくとも1つのJARが、まだTLDを含んでいないTLDについてスキャンされました。 スキャンしたが、そこにTLDが見つからなかったJARの完全なリストについては、このロガーのデバッグログを有効にしてください。 スキャン中に不要なJARをスキップすると、起動時間とJSPのコンパイル時間が改善されます。
+06-Dec-2021 16:47:49.678 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Web アプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/c0a20005c2.war] の配備は [143] ms で完了しました。
+06-Dec-2021 16:51:29.701 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy コンテキストパス [/c0a20022d6] のWebアプリケーションの配備を解除します
+06-Dec-2021 16:51:29.706 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Webアプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/c0a20022d6.war] を配備します
+06-Dec-2021 16:51:29.904 情報 [Catalina-utility-2] org.apache.jasper.servlet.TldScanner.scanJars 少なくとも1つのJARが、まだTLDを含んでいないTLDについてスキャンされました。 スキャンしたが、そこにTLDが見つからなかったJARの完全なリストについては、このロガーのデバッグログを有効にしてください。 スキャン中に不要なJARをスキップすると、起動時間とJSPのコンパイル時間が改善されます。
+06-Dec-2021 16:51:29.906 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Web アプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/c0a20022d6.war] の配備は [200] ms で完了しました。
+06-Dec-2021 16:52:19.911 情報 [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy コンテキストパス [/c0a200820d] のWebアプリケーションの配備を解除します
+06-Dec-2021 16:52:19.915 情報 [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Webアプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/c0a200820d.war] を配備します
+06-Dec-2021 16:52:20.111 情報 [Catalina-utility-1] org.apache.jasper.servlet.TldScanner.scanJars 少なくとも1つのJARが、まだTLDを含んでいないTLDについてスキャンされました。 スキャンしたが、そこにTLDが見つからなかったJARの完全なリストについては、このロガーのデバッグログを有効にしてください。 スキャン中に不要なJARをスキップすると、起動時間とJSPのコンパイル時間が改善されます。
+06-Dec-2021 16:52:20.113 情報 [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Web アプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/c0a200820d.war] の配備は [198] ms で完了しました。
+06-Dec-2021 16:54:10.124 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy コンテキストパス [/c0a200820d] のWebアプリケーションの配備を解除します
+06-Dec-2021 16:54:10.133 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Webアプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/c0a200820d.war] を配備します
+06-Dec-2021 16:54:10.329 情報 [Catalina-utility-2] org.apache.jasper.servlet.TldScanner.scanJars 少なくとも1つのJARが、まだTLDを含んでいないTLDについてスキャンされました。 スキャンしたが、そこにTLDが見つからなかったJARの完全なリストについては、このロガーのデバッグログを有効にしてください。 スキャン中に不要なJARをスキップすると、起動時間とJSPのコンパイル時間が改善されます。
+06-Dec-2021 16:54:10.331 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Web アプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/c0a200820d.war] の配備は [198] ms で完了しました。
+06-Dec-2021 16:55:20.338 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy コンテキストパス [/kanemitsuh] のWebアプリケーションの配備を解除します
+06-Dec-2021 16:55:20.347 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Webアプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/kanemitsuh.war] を配備します
+06-Dec-2021 16:55:20.554 情報 [Catalina-utility-2] org.apache.jasper.servlet.TldScanner.scanJars 少なくとも1つのJARが、まだTLDを含んでいないTLDについてスキャンされました。 スキャンしたが、そこにTLDが見つからなかったJARの完全なリストについては、このロガーのデバッグログを有効にしてください。 スキャン中に不要なJARをスキップすると、起動時間とJSPのコンパイル時間が改善されます。
+06-Dec-2021 16:55:20.557 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Web アプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/kanemitsuh.war] の配備は [209] ms で完了しました。
+06-Dec-2021 16:56:50.566 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy コンテキストパス [/c0a20134cf] のWebアプリケーションの配備を解除します
+06-Dec-2021 16:56:50.570 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Webアプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/c0a20134cf.war] を配備します
+06-Dec-2021 16:56:50.769 情報 [Catalina-utility-2] org.apache.jasper.servlet.TldScanner.scanJars 少なくとも1つのJARが、まだTLDを含んでいないTLDについてスキャンされました。 スキャンしたが、そこにTLDが見つからなかったJARの完全なリストについては、このロガーのデバッグログを有効にしてください。 スキャン中に不要なJARをスキップすると、起動時間とJSPのコンパイル時間が改善されます。
+06-Dec-2021 16:56:50.771 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Web アプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/c0a20134cf.war] の配備は [201] ms で完了しました。
+06-Dec-2021 16:57:10.773 情報 [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy コンテキストパス [/c0a20134cf] のWebアプリケーションの配備を解除します
+06-Dec-2021 16:57:10.782 情報 [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Webアプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/c0a20134cf.war] を配備します
+06-Dec-2021 16:57:10.978 情報 [Catalina-utility-1] org.apache.jasper.servlet.TldScanner.scanJars 少なくとも1つのJARが、まだTLDを含んでいないTLDについてスキャンされました。 スキャンしたが、そこにTLDが見つからなかったJARの完全なリストについては、このロガーのデバッグログを有効にしてください。 スキャン中に不要なJARをスキップすると、起動時間とJSPのコンパイル時間が改善されます。
+06-Dec-2021 16:57:10.980 情報 [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Web アプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/c0a20134cf.war] の配備は [199] ms で完了しました。
+06-Dec-2021 16:58:00.986 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy コンテキストパス [/c0a200820d] のWebアプリケーションの配備を解除します
+06-Dec-2021 16:58:00.989 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Webアプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/c0a200820d.war] を配備します
+06-Dec-2021 16:58:01.187 情報 [Catalina-utility-2] org.apache.jasper.servlet.TldScanner.scanJars 少なくとも1つのJARが、まだTLDを含んでいないTLDについてスキャンされました。 スキャンしたが、そこにTLDが見つからなかったJARの完全なリストについては、このロガーのデバッグログを有効にしてください。 スキャン中に不要なJARをスキップすると、起動時間とJSPのコンパイル時間が改善されます。
+06-Dec-2021 16:58:01.189 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Web アプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/c0a200820d.war] の配備は [200] ms で完了しました。
+06-Dec-2021 17:01:34.289 情報 [main] org.apache.catalina.core.StandardServer.await 有効なシャットダウンコマンドがシャットダウンポート経由で受信されました。 サーバーインスタンスを停止します。
+06-Dec-2021 17:01:34.290 情報 [main] org.apache.coyote.AbstractProtocol.pause ProtocolHandler ["http-nio-8080"] を一時停止します。
+06-Dec-2021 17:01:34.296 情報 [main] org.apache.catalina.core.StandardService.stopInternal サービス [Catalina] を停止します
+06-Dec-2021 17:01:34.330 情報 [main] org.apache.coyote.AbstractProtocol.stop ProtocolHandler ["http-nio-8080"]の停止中
+06-Dec-2021 17:01:34.347 情報 [main] org.apache.coyote.AbstractProtocol.destroy ProtocolHandler ["http-nio-8080"] を破棄します。
+NOTE: Picked up JDK_JAVA_OPTIONS:  --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.io=ALL-UNNAMED --add-opens=java.base/java.util=ALL-UNNAMED --add-opens=java.base/java.util.concurrent=ALL-UNNAMED --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+06-Dec-2021 17:01:35.676 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log Serverのバージョン名:     Apache Tomcat/9.0.45
+06-Dec-2021 17:01:35.680 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log Server ビルド:            Mar 30 2021 10:29:04 UTC
+--
+06-Dec-2021 17:01:36.030 情報 [main] org.apache.catalina.startup.HostConfig.deployWAR Webアプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/kanemitsuh.war] を配備します
+06-Dec-2021 17:01:36.362 情報 [main] org.apache.jasper.servlet.TldScanner.scanJars 少なくとも1つのJARが、まだTLDを含んでいないTLDについてスキャンされました。 スキャンしたが、そこにTLDが見つからなかったJARの完全なリストについては、このロガーのデバッグログを有効にしてください。 スキャン中に不要なJARをスキップすると、起動時間とJSPのコンパイル時間が改善されます。
+06-Dec-2021 17:01:36.398 情報 [main] org.apache.catalina.startup.HostConfig.deployWAR Web アプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/kanemitsuh.war] の配備は [367] ms で完了しました。
+06-Dec-2021 17:01:36.399 情報 [main] org.apache.catalina.startup.HostConfig.deployWAR Webアプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/.war] を配備します
+06-Dec-2021 17:01:36.399 警告 [main] org.apache.catalina.core.StandardContext.setPath コンテキストパスは空文字列あるいは "/" で開始し "/" で終了しない文字列でなければなりません。パス [/] はこの条件を満たさないため [] へ変更しました。
+06-Dec-2021 17:01:36.679 情報 [main] org.apache.jasper.servlet.TldScanner.scanJars 少なくとも1つのJARが、まだTLDを含んでいないTLDについてスキャンされました。 スキャンしたが、そこにTLDが見つからなかったJARの完全なリストについては、このロガーのデバッグログを有効にしてください。 スキャン中に不要なJARをスキップすると、起動時間とJSPのコンパイル時間が改善されます。
+06-Dec-2021 17:01:36.684 情報 [main] org.apache.catalina.startup.HostConfig.deployWAR Web アプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/.war] の配備は [284] ms で完了しました。
+06-Dec-2021 17:01:36.684 情報 [main] org.apache.catalina.startup.HostConfig.deployWAR Webアプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/c0a20134cf.war] を配備します
+06-Dec-2021 17:01:36.938 情報 [main] org.apache.jasper.servlet.TldScanner.scanJars 少なくとも1つのJARが、まだTLDを含んでいないTLDについてスキャンされました。 スキャンしたが、そこにTLDが見つからなかったJARの完全なリストについては、このロガーのデバッグログを有効にしてください。 スキャン中に不要なJARをスキップすると、起動時間とJSPのコンパイル時間が改善されます。
+06-Dec-2021 17:01:36.943 情報 [main] org.apache.catalina.startup.HostConfig.deployWAR Web アプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/c0a20134cf.war] の配備は [259] ms で完了しました。
+06-Dec-2021 17:01:36.944 情報 [main] org.apache.catalina.startup.HostConfig.deployWAR Webアプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/c0a200820d.war] を配備します
+06-Dec-2021 17:01:37.198 情報 [main] org.apache.jasper.servlet.TldScanner.scanJars 少なくとも1つのJARが、まだTLDを含んでいないTLDについてスキャンされました。 スキャンしたが、そこにTLDが見つからなかったJARの完全なリストについては、このロガーのデバッグログを有効にしてください。 スキャン中に不要なJARをスキップすると、起動時間とJSPのコンパイル時間が改善されます。
+06-Dec-2021 17:01:37.203 情報 [main] org.apache.catalina.startup.HostConfig.deployWAR Web アプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/c0a200820d.war] の配備は [258] ms で完了しました。
+06-Dec-2021 17:01:37.203 情報 [main] org.apache.catalina.startup.HostConfig.deployWAR Webアプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/c0a20082.war] を配備します
+06-Dec-2021 17:01:37.433 情報 [main] org.apache.jasper.servlet.TldScanner.scanJars 少なくとも1つのJARが、まだTLDを含んでいないTLDについてスキャンされました。 スキャンしたが、そこにTLDが見つからなかったJARの完全なリストについては、このロガーのデバッグログを有効にしてください。 スキャン中に不要なJARをスキップすると、起動時間とJSPのコンパイル時間が改善されます。
+06-Dec-2021 17:01:37.437 情報 [main] org.apache.catalina.startup.HostConfig.deployWAR Web アプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/c0a20082.war] の配備は [234] ms で完了しました。
+06-Dec-2021 17:01:37.438 情報 [main] org.apache.catalina.startup.HostConfig.deployWAR Webアプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/c0a20022d6.war] を配備します
+06-Dec-2021 17:01:37.541 情報 [main] org.apache.jasper.servlet.TldScanner.scanJars 少なくとも1つのJARが、まだTLDを含んでいないTLDについてスキャンされました。 スキャンしたが、そこにTLDが見つからなかったJARの完全なリストについては、このロガーのデバッグログを有効にしてください。 スキャン中に不要なJARをスキップすると、起動時間とJSPのコンパイル時間が改善されます。
+06-Dec-2021 17:01:37.543 情報 [main] org.apache.catalina.startup.HostConfig.deployWAR Web アプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/c0a20022d6.war] の配備は [105] ms で完了しました。
+06-Dec-2021 17:01:37.544 情報 [main] org.apache.catalina.startup.HostConfig.deployWAR Webアプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/c0a20005c2.war] を配備します
+06-Dec-2021 17:01:37.654 情報 [main] org.apache.jasper.servlet.TldScanner.scanJars 少なくとも1つのJARが、まだTLDを含んでいないTLDについてスキャンされました。 スキャンしたが、そこにTLDが見つからなかったJARの完全なリストについては、このロガーのデバッグログを有効にしてください。 スキャン中に不要なJARをスキップすると、起動時間とJSPのコンパイル時間が改善されます。
+06-Dec-2021 17:01:37.656 情報 [main] org.apache.catalina.startup.HostConfig.deployWAR Web アプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/c0a20005c2.war] の配備は [112] ms で完了しました。
+06-Dec-2021 17:01:37.657 情報 [main] org.apache.catalina.startup.HostConfig.deployDirectory Webアプリケーションディレクトリ [/opt/tomcat/apache-tomcat-9.0.45/webapps/docs] を配備します
+--
+06-Dec-2021 17:22:59.051 情報 [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy コンテキストパス [/kanemitsuh] のWebアプリケーションの配備を解除します
+06-Dec-2021 17:22:59.059 情報 [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Webアプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/kanemitsuh.war] を配備します
+06-Dec-2021 17:22:59.203 情報 [Catalina-utility-1] org.apache.jasper.servlet.TldScanner.scanJars 少なくとも1つのJARが、まだTLDを含んでいないTLDについてスキャンされました。 スキャンしたが、そこにTLDが見つからなかったJARの完全なリストについては、このロガーのデバッグログを有効にしてください。 スキャン中に不要なJARをスキップすると、起動時間とJSPのコンパイル時間が改善されます。
+06-Dec-2021 17:22:59.205 情報 [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Web アプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/kanemitsuh.war] の配備は [146] ms で完了しました。
+06-Dec-2021 17:42:49.365 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy コンテキストパス [/c0a20005c2] のWebアプリケーションの配備を解除します
+06-Dec-2021 17:42:49.379 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Webアプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/c0a20005c2.war] を配備します
+06-Dec-2021 17:42:49.397 重大 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Webアプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/c0a20005c2.war] を配備中のエラー
+	java.lang.IllegalStateException: 子要素を開始できません。
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:720)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:690)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:706)
+		at org.apache.catalina.startup.HostConfig.deployWAR(HostConfig.java:1023)
+		at org.apache.catalina.startup.HostConfig$DeployWar.run(HostConfig.java:1903)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:118)
+		at org.apache.catalina.startup.HostConfig.deployWARs(HostConfig.java:824)
+		at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:474)
+		at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1660)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:315)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+		at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1151)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1353)
+--
+06-Dec-2021 18:04:40.226 情報 [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy コンテキストパス [/kanemitsuh] のWebアプリケーションの配備を解除します
+06-Dec-2021 18:04:40.231 情報 [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Webアプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/kanemitsuh.war] を配備します
+06-Dec-2021 18:04:40.384 情報 [Catalina-utility-1] org.apache.jasper.servlet.TldScanner.scanJars 少なくとも1つのJARが、まだTLDを含んでいないTLDについてスキャンされました。 スキャンしたが、そこにTLDが見つからなかったJARの完全なリストについては、このロガーのデバッグログを有効にしてください。 スキャン中に不要なJARをスキップすると、起動時間とJSPのコンパイル時間が改善されます。
+06-Dec-2021 18:04:40.386 情報 [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Web アプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/kanemitsuh.war] の配備は [155] ms で完了しました。
+06-Dec-2021 18:04:50.388 情報 [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Webアプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/c0b200093f.war] を配備します
+06-Dec-2021 18:04:50.490 重大 [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Webアプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/c0b200093f.war] を配備中のエラー
+	java.lang.IllegalStateException: 子要素を開始できません。
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:720)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:690)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:706)
+		at org.apache.catalina.startup.HostConfig.deployWAR(HostConfig.java:1023)
+		at org.apache.catalina.startup.HostConfig$DeployWar.run(HostConfig.java:1903)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:118)
+		at org.apache.catalina.startup.HostConfig.deployWARs(HostConfig.java:824)
+		at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:474)
+		at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1660)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:315)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+		at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1151)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1353)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1357)
+--
+06-Dec-2021 18:07:06.510 情報 [main] org.apache.catalina.startup.HostConfig.deployWAR Webアプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/kanemitsuh.war] を配備します
+06-Dec-2021 18:07:07.237 情報 [main] org.apache.jasper.servlet.TldScanner.scanJars 少なくとも1つのJARが、まだTLDを含んでいないTLDについてスキャンされました。 スキャンしたが、そこにTLDが見つからなかったJARの完全なリストについては、このロガーのデバッグログを有効にしてください。 スキャン中に不要なJARをスキップすると、起動時間とJSPのコンパイル時間が改善されます。
+06-Dec-2021 18:07:07.311 情報 [main] org.apache.catalina.startup.HostConfig.deployWAR Web アプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/kanemitsuh.war] の配備は [799] ms で完了しました。
+06-Dec-2021 18:07:07.312 情報 [main] org.apache.catalina.startup.HostConfig.deployWAR Webアプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/c0a2010892.war] を配備します
+06-Dec-2021 18:07:07.647 情報 [main] org.apache.jasper.servlet.TldScanner.scanJars 少なくとも1つのJARが、まだTLDを含んでいないTLDについてスキャンされました。 スキャンしたが、そこにTLDが見つからなかったJARの完全なリストについては、このロガーのデバッグログを有効にしてください。 スキャン中に不要なJARをスキップすると、起動時間とJSPのコンパイル時間が改善されます。
+06-Dec-2021 18:07:07.653 情報 [main] org.apache.catalina.startup.HostConfig.deployWAR Web アプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/c0a2010892.war] の配備は [340] ms で完了しました。
+06-Dec-2021 18:07:07.653 情報 [main] org.apache.catalina.startup.HostConfig.deployWAR Webアプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/.war] を配備します
+06-Dec-2021 18:07:07.654 警告 [main] org.apache.catalina.core.StandardContext.setPath コンテキストパスは空文字列あるいは "/" で開始し "/" で終了しない文字列でなければなりません。パス [/] はこの条件を満たさないため [] へ変更しました。
+06-Dec-2021 18:07:07.917 情報 [main] org.apache.jasper.servlet.TldScanner.scanJars 少なくとも1つのJARが、まだTLDを含んでいないTLDについてスキャンされました。 スキャンしたが、そこにTLDが見つからなかったJARの完全なリストについては、このロガーのデバッグログを有効にしてください。 スキャン中に不要なJARをスキップすると、起動時間とJSPのコンパイル時間が改善されます。
+06-Dec-2021 18:07:07.922 情報 [main] org.apache.catalina.startup.HostConfig.deployWAR Web アプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/.war] の配備は [268] ms で完了しました。
+06-Dec-2021 18:07:07.922 情報 [main] org.apache.catalina.startup.HostConfig.deployWAR Webアプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/c0b200093f.war] を配備します
+06-Dec-2021 18:07:08.147 重大 [main] org.apache.catalina.startup.HostConfig.deployWAR Webアプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/c0b200093f.war] を配備中のエラー
+	java.lang.IllegalStateException: 子要素を開始できません。
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:720)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:690)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:706)
+		at org.apache.catalina.startup.HostConfig.deployWAR(HostConfig.java:1023)
+		at org.apache.catalina.startup.HostConfig$DeployWar.run(HostConfig.java:1903)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:118)
+		at org.apache.catalina.startup.HostConfig.deployWARs(HostConfig.java:824)
+--
+07-Dec-2021 01:03:14.890 情報 [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy コンテキストパス [/kanemitsuh] のWebアプリケーションの配備を解除します
+07-Dec-2021 01:03:14.895 情報 [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Webアプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/kanemitsuh.war] を配備します
+07-Dec-2021 01:03:15.005 情報 [Catalina-utility-1] org.apache.jasper.servlet.TldScanner.scanJars 少なくとも1つのJARが、まだTLDを含んでいないTLDについてスキャンされました。 スキャンしたが、そこにTLDが見つからなかったJARの完全なリストについては、このロガーのデバッグログを有効にしてください。 スキャン中に不要なJARをスキップすると、起動時間とJSPのコンパイル時間が改善されます。
+07-Dec-2021 01:03:15.007 情報 [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Web アプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/kanemitsuh.war] の配備は [112] ms で完了しました。
+07-Dec-2021 01:10:05.056 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy コンテキストパス [/kanemitsuh] のWebアプリケーションの配備を解除します
+07-Dec-2021 01:10:05.076 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Webアプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/kanemitsuh.war] を配備します
+07-Dec-2021 01:10:05.365 情報 [Catalina-utility-2] org.apache.jasper.servlet.TldScanner.scanJars 少なくとも1つのJARが、まだTLDを含んでいないTLDについてスキャンされました。 スキャンしたが、そこにTLDが見つからなかったJARの完全なリストについては、このロガーのデバッグログを有効にしてください。 スキャン中に不要なJARをスキップすると、起動時間とJSPのコンパイル時間が改善されます。
+07-Dec-2021 01:10:05.368 情報 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Web アプリケーションアーカイブ [/opt/tomcat/apache-tomcat-9.0.45/webapps/kanemitsuh.war] の配備は [292] ms で完了しました。
