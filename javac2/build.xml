@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project name="ProJava" default="dist" basedir=".">
+<project name="PNW2" default="dist" basedir=".">
 
 
 
-  <description>のビルドファイルです．</description>
+  <description>P実習2用のビルドファイルです．</description>
   <!--set global properties for this build-->
   <property name="src" value="src" />
   <property name="build" value="classes" />
@@ -31,6 +31,7 @@
   <target name="build" depends="init">
     <!--Compiles the java code from ${src} directory into ${build} directory-->
    <javac encoding="utf-8" destdir="${build}" source="11" target="11">
+   <!--<javac  destdir="${build}" source="11" target="11">-->
     <!--<javac  destdir="${build}">-->
       <src path="${src}" />
     </javac>

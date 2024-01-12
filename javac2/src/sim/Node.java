@@ -1,4 +1,3 @@
-package sim;
 
 import java.util.HashMap;
 import java.util.LinkedList;
@@ -35,7 +34,7 @@ public class Node implements Runnable{
      * @param arpMap
      * @param nicMap
      */
-    protected LinkedList<Packet> packetQueue;
+    protected LinkedList<Packet> packetQueue;//キューのりすと　現在無制限　＝　制限を掛ける必要がある　
 
     public Node(String name, 
     RoutingTable rt, 
@@ -50,11 +49,37 @@ public class Node implements Runnable{
         this.isRouter = false;
     }
 
-
+    
 
     @Override
     public void run() {
-        // TODO Auto-generated method stub
+        while(true){
+            System.err.println("Node_run 開始");
+            try{
+                Thread.sleep(10);
+                 // TODO Auto-generated method stub
+                if(this.isQueueEmpty()){
+                    System.err.println("キューが０");
+                }else{
+                    //キューが空でないときは取り出そうとする。
+                    if(this.packetQueue.size() > DB.getIns().getMaxQueueSize()){
+                        //packerを消す。
+                        this.getPacketQueue().removeLast();
+                        System.out.println("消えたで");
+                        continue;
+                    }else{
+                        Packet p = this.getPacketQueue().poll();
+                        
+                    }
+                }
+                    
+            }catch(Exception e){
+                e.printStackTrace();
+            }
+        }
+       
+            
+        
         
     }
 

@@ -1,4 +1,3 @@
-package sim;
 
 import java.util.LinkedList;
 
@@ -24,9 +23,17 @@ public class Packet {
     private String destMAC;
 
     /**
-     * TTL (Time To Live)
+     * TTL (Time To Live) ここで指定　ルータを通るごとに-1される処理を書く
      */
-    private int TTL;
+
+    private int TTL = 1000;
+
+    //private int Sleep = 1;
+
+    //-----追加箇所--------
+
+    public static int Sleep = 70;
+    public static int count_drop = 0;
 
 
     /*
@@ -122,10 +129,45 @@ public class Packet {
         return TTL;
     }
 
+    public int lowerTTL(){
+        return TTL -= 1;
+    }
+
 
     public void setTTL(int tTL) {
         TTL = tTL;
     }
+
+    public int getSleep(){
+        return Sleep;
+    }
+
+    //-------------------追加箇所 12/08
+    public int upSleep(){
+        Sleep = 70;
+        System.out.println("伸ばした");
+        return Sleep;
+    }
+
+    public int downSleep(){
+        Sleep -=2;
+        return Sleep;
+    }
+
+    public void countUpDrop(){
+        count_drop = count_drop + 1;
+        System.out.println("足された");
+        System.out.println(count_drop);
+    }
+
+    public void countDownDrop(){
+        count_drop = count_drop -1;
+    }
+
+    public int getCount_drop(){
+        return count_drop;
+    }
+
 
     
 

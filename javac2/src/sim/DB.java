@@ -1,4 +1,3 @@
-package sim;
 
 import java.util.HashMap;
 
@@ -13,6 +12,8 @@ public class DB {
     private HashMap<String, NIC> nicMap;
 
     private static DB own;
+
+    private int maxQueueSize = 100;
 
     private DB(){
         this.pcMap = new HashMap<String, PC>();
@@ -41,8 +42,18 @@ public class DB {
 
     
 
+    
+
 
     
+    public int getMaxQueueSize() {
+        return maxQueueSize;
+    }
+
+    public void setMaxQueueSize(int maxQueueSize) {
+        this.maxQueueSize = maxQueueSize;
+    }
+
     public HashMap<String, NIC> getNicMap() {
         return nicMap;
     }
